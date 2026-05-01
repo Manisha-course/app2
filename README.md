@@ -42,4 +42,17 @@ song_temp/|-index.html
 # Screenshots  
 ![home](https://github.com/Manisha-course/app2/blob/main/home.png)
 ![playlist](https://github.com/Manisha-course/app2/blob/main/playlist.png)
-![songplayer](https://github.com/Manisha-course/app2/blob/main/songplayer.png)
+![songplayer](https://github.com/Manisha-course/app2/blob/main/songplayer.png)  
+# 🎨Future Improvements  
+Add javascript controls  
+Improve UI  
+Make it responsive  
+Create playlist system  
+
+# 🦚Feedback  
+If you like this project  
+give it a⭐on Github!  
+
+# 🐧 Author  
+Manisha kumari  
+👩‍🎓BSC.IT Student  
